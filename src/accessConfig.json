@@ -2,21 +2,21 @@
     "account": [
         {
             "type": "qq",
-            "username": "1",
-            "label": "测试",
-            "expiryDate": "1h"
+            "username": "947021906",
+            "label": "派样",
+            "expiryDate": "2d"
         },
         {
             "type": "wechat",
-            "username": "2",
+            "username": "test",
             "label": "测试",
-            "expiryDate": "1m"
+            "expiryDate": "0m"
         }
     ],
     "gift": [
         {
-            "belong": "双儿",
-            "code": "Alan Chen Loves You",
+            "belong": "Alan&双儿",
+            "code": "love双儿",
             "expiryDate": "infinite"
         }
     ]
