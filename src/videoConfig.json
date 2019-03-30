@@ -1,0 +1,19 @@
+{
+    "VIP_INTERFACE": [
+        "http://jx.kdy52.com/?url=",
+        "http://api.bbbbbb.me/jiexi/?url=",
+        "http://bofang.online/?url=",
+        "http://607p.com/?url=",
+        "http://yun.baiyug.cn/vip/?url="
+    ],
+    "VIDEO_FETCH_SITE": {
+        "QQ": {
+            "label": "腾讯",
+            "url": "https://v.qq.com/x/search/?q="
+        },
+        "QIYI": {
+            "label": "爱奇艺",
+            "url": "http://so.iqiyi.com/so/q_"
+        }
+    }
+}

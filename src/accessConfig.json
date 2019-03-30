@@ -1,0 +1,23 @@
+{
+    "account": [
+        {
+            "type": "qq",
+            "username": "739709491",
+            "label": "橙子",
+            "expiryDate": "infinite"
+        },
+        {
+            "type": "wechat",
+            "username": "739709491",
+            "label": "阿兰",
+            "expiryDate": "infinite"
+        }
+    ],
+    "gift": [
+        {
+            "belong": "双儿",
+            "code": "Alan Chen Loves You",
+            "expiryDate": "infinite"
+        }
+    ]
+}
