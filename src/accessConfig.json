@@ -2,15 +2,15 @@
     "account": [
         {
             "type": "qq",
-            "username": "739709491",
-            "label": "橙子",
-            "expiryDate": "infinite"
+            "username": "1",
+            "label": "测试",
+            "expiryDate": "1h"
         },
         {
             "type": "wechat",
-            "username": "739709491",
-            "label": "阿兰",
-            "expiryDate": "infinite"
+            "username": "2",
+            "label": "测试",
+            "expiryDate": "1d"
         }
     ],
     "gift": [
