@@ -10,7 +10,7 @@
             "type": "wechat",
             "username": "2",
             "label": "测试",
-            "expiryDate": "1d"
+            "expiryDate": "1m"
         }
     ],
     "gift": [
