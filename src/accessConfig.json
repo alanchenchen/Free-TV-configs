@@ -13,6 +13,12 @@
             "expiryDate": "30d"
         },
         {
+            "type": "qq",
+            "username": "963931673",
+            "label": "黑水公司",
+            "expiryDate": "30d"
+        },
+        {
             "type": "wechat",
             "username": "test",
             "label": "测试",
