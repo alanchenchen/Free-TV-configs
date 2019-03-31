@@ -7,6 +7,12 @@
             "expiryDate": "2d"
         },
         {
+            "type": "qq",
+            "username": "961343191",
+            "label": "卡卡",
+            "expiryDate": "30d"
+        },
+        {
             "type": "wechat",
             "username": "test",
             "label": "测试",
