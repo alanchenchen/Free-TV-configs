@@ -33,6 +33,11 @@
     ],
     "gift": [
         {
+            "belong": "Alan",
+            "code": "alanchen",
+            "expiryDate": "infinite"
+        },
+        {
             "belong": "Alan&双儿",
             "code": "love双儿",
             "expiryDate": "infinite"
