@@ -1,6 +1,12 @@
 {
     "account": [
         {
+            "type": "wechat",
+            "username": "jww950823",
+            "label": "靖威",
+            "expiryDate": "30d"
+        },
+        {
             "type": "qq",
             "username": "947021906",
             "label": "派样",
