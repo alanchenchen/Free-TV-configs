@@ -23,14 +23,14 @@
             "username": "test1",
             "label": "测试",
             "activeDate": "2019/05/01",
-            "expiryDate": "20d"
+            "expiryDate": "2d"
         },
         {
             "type": "wechat",
             "username": "test2",
             "label": "测试",
             "activeDate": "2019/05/10",
-            "expiryDate": "20d"
+            "expiryDate": "2d"
         },
         {
             "type": "wechat",
