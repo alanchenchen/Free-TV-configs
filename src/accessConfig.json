@@ -4,39 +4,29 @@
             "type": "wechat",
             "username": "jww950823",
             "label": "靖威",
+            "activeDate": "2019/05/01",
             "expiryDate": "30d"
         },
         {
             "type": "qq",
             "username": "961343191",
             "label": "卡卡",
+            "activeDate": "2019/05/01",
             "expiryDate": "30d"
         },
         {
             "type": "qq",
             "username": "963931673",
             "label": "黑水公司",
-            "expiryDate": "30d"
-        },
-        {
-            "type": "wechat",
-            "username": "test1",
-            "label": "测试",
             "activeDate": "2019/05/01",
-            "expiryDate": "2d"
-        },
-        {
-            "type": "wechat",
-            "username": "test2",
-            "label": "测试",
-            "activeDate": "2019/05/10",
-            "expiryDate": "2d"
+            "expiryDate": "30d"
         },
         {
             "type": "wechat",
             "username": "LH20120609",
             "label": "叶紫清",
-            "expiryDate": "30d"
+            "activeDate": "2019/05/01",
+            "expiryDate": "40d"
         }
     ],
     "gift": [
