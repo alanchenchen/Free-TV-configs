@@ -8,12 +8,6 @@
         },
         {
             "type": "qq",
-            "username": "947021906",
-            "label": "派样",
-            "expiryDate": "2d"
-        },
-        {
-            "type": "qq",
             "username": "961343191",
             "label": "卡卡",
             "expiryDate": "30d"
@@ -26,9 +20,17 @@
         },
         {
             "type": "wechat",
-            "username": "test",
+            "username": "test1",
             "label": "测试",
-            "expiryDate": "0m"
+            "activeDate": "2019/05/01",
+            "expiryDate": "20d"
+        },
+        {
+            "type": "wechat",
+            "username": "test2",
+            "label": "测试",
+            "activeDate": "2019/05/10",
+            "expiryDate": "20d"
         },
         {
             "type": "wechat",
