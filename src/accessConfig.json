@@ -26,7 +26,14 @@
             "username": "LH20120609",
             "label": "叶紫清",
             "activeDate": "2019/05/01",
-            "expiryDate": "40d"
+            "expiryDate": "60d"
+        },
+        {
+            "type": "wechat",
+            "username": "yuanbaocat",
+            "label": "曾老板",
+            "activeDate": "2019/05/01",
+            "expiryDate": "60d"
         }
     ],
     "gift": [
