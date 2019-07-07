@@ -25,8 +25,8 @@
             "type": "qq",
             "username": "963931673",
             "label": "黑水公司",
-            "activeDate": "2019/06/01",
-            "expiryDate": "30d"
+            "activeDate": "2019/07/07",
+            "expiryDate": "60d"
         },
         {
             "type": "wechat",
