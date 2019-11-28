@@ -4,42 +4,42 @@
             "type": "wechat",
             "username": "jww950823",
             "label": "靖威",
-            "activeDate": "2019/05/01",
+            "activeDate": "2019/12/01",
             "expiryDate": "30d"
         },
         {
             "type": "qq",
             "username": "961343191",
             "label": "卡卡",
-            "activeDate": "2019/05/01",
+            "activeDate": "2019/12/01",
             "expiryDate": "30d"
         },
         {
             "type": "qq",
             "username": "947021906",
             "label": "派样",
-            "activeDate": "2019/05/01",
+            "activeDate": "2019/12/01",
             "expiryDate": "90d"
         },
         {
             "type": "qq",
             "username": "963931673",
             "label": "黑水公司",
-            "activeDate": "2019/07/07",
+            "activeDate": "2019/12/01",
             "expiryDate": "60d"
         },
         {
             "type": "wechat",
             "username": "LH20120609",
             "label": "叶紫清",
-            "activeDate": "2019/05/01",
+            "activeDate": "2019/12/01",
             "expiryDate": "60d"
         },
         {
             "type": "wechat",
             "username": "yuanbaocat",
             "label": "曾老板",
-            "activeDate": "2019/05/01",
+            "activeDate": "2019/12/01",
             "expiryDate": "60d"
         }
     ],
@@ -50,8 +50,8 @@
             "expiryDate": "infinite"
         },
         {
-            "belong": "Alan&双儿",
-            "code": "love双儿",
+            "belong": "Alan&婷儿",
+            "code": "love婷儿",
             "expiryDate": "infinite"
         }
     ]
